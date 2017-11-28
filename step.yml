@@ -74,7 +74,6 @@ inputs:
         Can be Markdown formatted text.
       is_expand: true
       is_required: true
-      value_options: []
   - appId:
     opts:
       title: "App ID"
@@ -85,7 +84,6 @@ inputs:
         Can be Markdown formatted text.
       is_expand: true
       is_required: true
-      value_options: []
   - api_key:
     opts:
       title: "API Key"
@@ -96,4 +94,3 @@ inputs:
         Can be Markdown formatted text.
       is_expand: true
       is_required: true
-      value_options: []
