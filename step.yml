@@ -64,6 +64,9 @@ toolkit:
 
 
 inputs:
+  inputs:
+  - title: BITRISE Archive Step's IPA path output (passed automatically)
+    mapped_to: BITRISE_IPA_PATH
   - appManUrl:
     opts:
       title: "App Manager URL"
